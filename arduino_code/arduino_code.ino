@@ -81,7 +81,6 @@ int mesureDist() {
   digitalWrite(trigPin, HIGH);
   delayMicroseconds(10);
   digitalWrite(trigPin, LOW);
- // return 16; //BUNU DEĞİŞTİR.
   return pulseIn(echoPin, HIGH) * 0.034 / 2;
   
   
