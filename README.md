@@ -22,4 +22,4 @@ Aplikasyon için direkt olarak halihazırda olan *.apk* dosyasını kurabilir ve
 Ardından *MIT App Inventor 2*'ye Google hesabınızla giriş yapın ve "*Create Apps*" tuşuna basın.   
 Gelen ekranda yeni bir proje oluşturun.   
 Oluşturduğunuz projeyi açıp bilgisayarınıza indirdiğiniz *.aia* uzantılı dosyayı "*Projects*" sekmesinin içindeki "*Import project (.aia) from my computer ...*" tuşuna basarak import edin.  
-Şimdi aplikasoyun düzenlemeye hazırsınız.
+Şimdi aplikasoyun düzenlemeye hazırız.
