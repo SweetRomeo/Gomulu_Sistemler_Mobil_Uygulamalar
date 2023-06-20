@@ -1,6 +1,6 @@
 # Arduino Bluetooth Alarm Sistemi
 
-##ARDUINO KODU
+## ARDUINO KODU
 Öncelikle bu *JSON* dosyasını *Arduino IDE* üzerine entegre etmeniz gerekiyor.  
 *https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json*  
 Bu *JSON* dosyasını *Arduino IDE* üzerinde "*Files*" sonrasında çıkan menüden "Preferences..." tuşlarına basın.  
@@ -11,7 +11,7 @@ Aşağıdaki linkten ise *stm32CubeProgrammer* yazılımını bilgisayarınıza 
 *https://www.st.com/en/development-tools/stm32cubeprog.html*  
 Şimdi Arduino kodlarını yüklemeye hazırız.  
 
-##APLİKASYON
+## APLİKASYON
 Aplikasyon için direkt olarak halihazırda olan *.apk* dosyasını kurabilir veya uygulamayı düzenlemek için aşağıdaki adımları izleyebilirsiniz.  
 Öncelikle dosyalar içerisinde bulunan *.aia* uzantılı dosyayı bilgisayarınıza indirin.  
 Ardından *MIT App Inventor 2*'ye Google hesabınızla giriş yapın ve "*Create Apps*" tuşuna basın.   
