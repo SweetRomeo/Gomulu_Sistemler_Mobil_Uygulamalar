@@ -11,8 +11,8 @@ Aşağıdaki linkten ise stm32CubeProgrammer yazılımını bilgisayarınıza in
 Şimdi Arduino kodlarını yüklemeye hazırız.  
 
 
-Aplikasyon için direkt olarak halihazırda olan apk dosyasını kurabilir veya uygulamayı düzenlemek için aşağıdaki adımları izleyebilirsiniz.
-Öncelikle dosyalar içerisinde bulunan .aia uzantılı dosyayı bilgisayarınıza indirin.
-Ardından MIT App Inventor 2'ye Google hesabınızla giriş yapın ve Create Apps tuşuna basın. 
-Gelen ekranda yeni bir proje oluşturun. 
-Oluşturduğunuz projeyi açıp bilgisayarınıza indirdiğiniz .aia uzantılı dosyayı "Projects" sekmesinin içindeki "Import project (.aia) from my computer ..." tuşuna basarak import edin.
+Aplikasyon için direkt olarak halihazırda olan apk dosyasını kurabilir veya uygulamayı düzenlemek için aşağıdaki adımları izleyebilirsiniz.  
+Öncelikle dosyalar içerisinde bulunan .aia uzantılı dosyayı bilgisayarınıza indirin.  
+Ardından MIT App Inventor 2'ye Google hesabınızla giriş yapın ve Create Apps tuşuna basın.   
+Gelen ekranda yeni bir proje oluşturun.   
+Oluşturduğunuz projeyi açıp bilgisayarınıza indirdiğiniz .aia uzantılı dosyayı "Projects" sekmesinin içindeki "Import project (.aia) from my computer ..." tuşuna basarak import edin.  
