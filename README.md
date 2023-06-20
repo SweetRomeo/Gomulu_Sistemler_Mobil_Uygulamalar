@@ -7,7 +7,7 @@ Açılan ekranda "Additional Board Manager URLs:" kısmındaki yere yukardaki li
 Sonrasında "Tools" kısmından "Board:" yazan kısma gelin ve "Board Manager..." kısmnını seçin.
 Soldan açılan ekranda "Filter your search..." kısmına stm32 yazın ve "STM32 MCU based boards" yazan kısmın "2.5.0" sürümünü seçip indirin.
 Aşağıdaki linkten ise stm32CubeProgrammer yazılımını bilgisayarınıza indirin.
-**https://www.st.com/en/development-tools/stm32cubeprog.html**
+*https://www.st.com/en/development-tools/stm32cubeprog.html*
 Şimdi Arduino kodlarını yüklemeye hazırız.
 
 
