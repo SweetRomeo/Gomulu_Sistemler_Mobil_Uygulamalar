@@ -1,7 +1,13 @@
-# arduino_bluetooth_alarm
+# Arduino Bluetooth Alarm Sistemi
 
-have to add this json file https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json to arduino IDE
+Öncelikle bu JSON dosyasını Arduino IDE üzerine entegre etmeniz gerekiyor.
+https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
+Sonrasında Arduino IDE'nin kart yöneticisi kısmından STM32 paketlerini indirmeniz gerekiyor.
+Şimdi Arduino kodlarını yüklemeye hazırız.
 
-after that you have to download stm package from board manager part.
 
-And you read to go.
+Aplikasyon için direkt olarak halihazırda olan apk dosyasını kurabilir veya uygulamayı düzenlemek için aşağıdaki adımları izleyebilirsiniz.
+Öncelikle dosyalar içerisinde bulunan .aia uzantılı dosyayı bilgisayarınıza indirin.
+Ardından MIT App Inventor 2'ye Google hesabınızla giriş yapın ve Create Apps tuşuna basın. 
+Gelen ekranda yeni bir proje oluşturun. 
+Oluşturduğunuz projeyi açıp bilgisayarınıza indirdiğiniz .aia uzantılı dosyayı "Projects" sekmesinin içindeki "Import project (.aia) from my computer ..." tuşuna basarak import edin.
